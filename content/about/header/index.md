@@ -7,6 +7,16 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-I'm a Hugo theme you'll want to hang out with. :fr: 
+Nice to meet you!
 
-The page you are reading is based on a markdown file- look in `content/about/` to edit. There, look inside the `header`, `main`, and `sidebar` folders to get started building your own "about" page.
+I'm an assistant professor at Department of Economics, Nanjing Audit University. 
+
+My research focuses on the determinants of judgments and decision-making in social contexts where people interact. Topics include: institutions in social dilemmas, moral judgments, information and persuasion. Learn more about my research [here](/project).
+
+### <i class="fas fa-graduation-cap"></i> Education:
+
+Ph.D Tilburg University, 2021
+
+MA. Renmin University of China, 2014
+
+BA  Renmin University of China, 2012

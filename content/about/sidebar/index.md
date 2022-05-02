@@ -1,18 +1,17 @@
 ---
 ## Configure sidebar content in narrow column
 author: "Manwei Liu"
-role: "A Hugo theme"
+role: "Assistant professor in economics"
 avatar_shape: rounded # circle, square, rounded, leave blank to exclude
 show_social_links: false # specify social accounts in site config
-audio_link_label: "How to say my name" # leave blank to exclude
-link_list_label: "Interests" # bookmarks, elsewhere, etc.
+audio_link_label: "Sing my name" # leave blank to exclude
+link_list_label: "Related Links" # bookmarks, elsewhere, etc.
 link_list:
-- name: Paris
-  url: https://en.wikipedia.org/wiki/Paris
-- name: Pastries
+- name: Our team
+  url: https://nexl.nau.edu.cn/
+- name: A reading group
   url: https://en.wikipedia.org/wiki/Pastry
-- name: People
-  url: https://en.wikipedia.org/wiki/People
+
 ---
 
 ** index doesn't contain a body, just front matter above.

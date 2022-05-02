@@ -12,7 +12,7 @@ cascade:
     text_link_url: /talk/
 description: |
   This is a list for your talks, workshops, or other events with a time, date, and place.
-layout: list
+layout: list-sidebar
 show_author_byline: true
 show_button_links: true
 show_post_date: true

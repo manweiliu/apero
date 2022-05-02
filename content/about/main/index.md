@@ -1,17 +1,18 @@
 ---
 ## Configure page content in wide column
-title: "Why apéro?" # leave blank to exclude
+title: "Why blog?" # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
-number_categories: 3 # set to zero to exclude
+number_categories: 0 # 3 set to zero to exclude
 show_intro: true
 intro: |
-  Apéro is a unique kind of casual get-together in French culture, when you gather with friends and get to know each other better over some apéritifs, snacks, and anything in between. A good apéro is one where you'd happily spend a few hours just hanging out.
+  I often choke on being asked "what do you do when you are not doing research or teaching?" Not that I live an unconscious life, but the contingency of "not doing research or teaching" is ambiguously defined. I blame my brain for the ambiguity as it constantly mingles what I wish it is doing (i.e. research) and what it is actually doing, leaving a huge grey area between "definitely research" and "research-free" activities. 
   
-  I hope this theme helps you create your own virtual apéro. A place where you and your site's visitors enjoy spending time, and one that helps folks get to know you better. 
+  Forget about the false work-life dichotomy. I blog because my research and teaching intertwine with things I enjoy in my non-intellectual life. If the latter sounds unprofessional to you, feel free to ignore [~~Blog~~](/project) and focus on my [research](/project).
+
 show_outro: true
 outro: |
-  <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
+  <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to Yu Zhang for the illustration she draws for my dissertation which now becomes my avatar!
 ---
 
 ** index doesn't contain a body, just front matter above.
